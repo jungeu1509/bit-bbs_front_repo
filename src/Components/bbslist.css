@@ -1,0 +1,15 @@
+.underline:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.table-bbs-list > tr:hover {
+  background-color: #f9f5eb;
+}
+.deleteTitle {
+  text-align: center;
+  color: red;
+}
+
+label {
+  margin: 0;
+}

@@ -1,0 +1,36 @@
+.detail-form-control:disabled,
+.detail-form-control[readonly] {
+  border: none;
+  background-color: white;
+}
+
+textarea.detail-form-control {
+  resize: none;
+  height: 400px;
+}
+
+.detail-table {
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+.detail-table th {
+  background-color: #607eaa;
+  color: white;
+  font-size: large;
+}
+
+.btn {
+  border: solid black 1px;
+  margin: 2px;
+  background-color: #1c3879;
+  color: white;
+}
+
+.table-btn-left {
+  text-align: left;
+}
+
+.table-btn-right {
+  text-align: right;
+}

@@ -1,0 +1,52 @@
+/* .form-control {
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+} */
+
+p {
+  margin: 0px;
+}
+
+.rewrite-table {
+  margin-top: 5px;
+}
+
+.rewrite-origin-table {
+  background-color: #f9f5eb;
+}
+
+.rewrite-origin-table th {
+  background-color: #607eaa;
+}
+
+.rewrite-input-table th {
+  background-color: #607eaa;
+}
+
+.rewrite-origin-form-control:disabled,
+.rewrite-origin-form-control[readonly] {
+  border: none;
+  background-color: #f9f5eb;
+}
+
+textarea.rewrite-origin-form-control {
+  resize: none;
+}
+
+textarea.rewrite-input-form-control {
+  resize: none;
+  height: 500px;
+}
+
+.btn {
+  margin: 2px;
+}
+
+.table-btn-left {
+  text-align: left;
+}
+
+.table-btn-right {
+  text-align: right;
+}

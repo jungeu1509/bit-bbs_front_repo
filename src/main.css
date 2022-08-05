@@ -1,0 +1,27 @@
+header {
+  background-color: #c6e5f3;
+}
+
+footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+  width: 100%;
+}
+
+.quick_bar {
+  position: fixed;
+  z-index: 11;
+  right: 20px;
+  width: 82px;
+  text-align: center;
+  color: #000;
+  display: block;
+  overflow: hidden;
+  top: 800px;
+}
+
+.bg-info {
+  background-color: #607eaa !important;
+}

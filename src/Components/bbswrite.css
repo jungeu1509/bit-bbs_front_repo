@@ -1,0 +1,5 @@
+textarea.write-form-control {
+  resize: none;
+  min-height: 350px;
+  height: auto;
+}

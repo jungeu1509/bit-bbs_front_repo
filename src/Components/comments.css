@@ -1,0 +1,33 @@
+.comment-input-table {
+  background-color: #eae3d2;
+  vertical-align: middle;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+.comment-form-control {
+  resize: none;
+}
+
+textarea.comment-input-form-control {
+  resize: none;
+  width: 860px;
+  margin: 0;
+}
+
+textarea.comment-show-form-control {
+  background-color: #f9f5eb !important;
+  resize: none;
+  width: 100%;
+  height: 135px;
+  margin: 0;
+  border: none;
+}
+
+.btn {
+  margin: 4px;
+}
+
+.table-striped:nth-of-type(odd) {
+  background-color: #f9f5eb;
+}
