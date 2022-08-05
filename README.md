@@ -1,13 +1,10 @@
-# README.md
-
----
-
 # Bulletin Board System
 
-React와 SpringBoot를 이용한 게시판 만들기
+**React와 SpringBoot를 이용한 게시판 만들기**
 
-Front-end Repository : [https://github.com/jungeu1509/bit-bbs_front_repo](https://github.com/jungeu1509/bit-bbs_front_repo)
-Back-end Repository : [https://github.com/jungeu1509/bit-bbs_back_repo](https://github.com/jungeu1509/bit-bbs_back_repo)
+
+> - Front-end Repository : [https://github.com/jungeu1509/bit-bbs_front_repo](https://github.com/jungeu1509/bit-bbs_front_repo)
+> - Back-end Repository : [https://github.com/jungeu1509/bit-bbs_back_repo](https://github.com/jungeu1509/bit-bbs_back_repo)
 
 ## 사용설명
 
